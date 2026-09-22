@@ -1,6 +1,6 @@
 # C# Windows Forms: My Top 5 Artists(Serialization PT. 1)
 
-This repository contains the completed source code for Tutorial #8 on my YouTube channel. It demonstrates how to build a basic graphical user interface and apply Object-Oriented Programming (OOP) concepts in C#.
+This repository contains the completed source code for Tutorial # on my YouTube channel. It demonstrates how to build a basic graphical user interface and apply Object-Oriented Programming (OOP) concepts in C#.
 
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@CodedByVin).
 
